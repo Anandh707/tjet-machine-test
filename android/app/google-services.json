@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132009819939",
+    "project_id": "tjet-machine-test",
+    "storage_bucket": "tjet-machine-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132009819939:android:aee9bdf0cb883af6691696",
+        "android_client_info": {
+          "package_name": "com.example.tec_jet_machine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bTmSH4v_IShHtM9fqE3bbSVZOvkXXe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
